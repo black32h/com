@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65639987-281b-4a04-876b-19adcd2a04eb" name="Changes" comment="бот мазда">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/Obj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/OchadMazda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/MazdaOschad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/PrivatMazda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/MazdaPrivat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/SimpleTelegramBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/SimpleTelegramBotApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/SpecialMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/TelegramBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/simpletelegrambot/TelegramBot.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="bezborodkoS &lt;rotp25@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;black32h&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bezborodkoS/SimleTelegramBot.git&quot;,
+    &quot;accountId&quot;: &quot;3e7d5ca4-d67b-406f-998f-1cf921df7727&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2k1Ac1X9psYH7fxVUibKOQB6i47" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SimpleTelegramBotApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Админ/IdeaProjects/SimleTelegramBot/src/main/java/com/example/simpletelegrambot",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Админ\IdeaProjects\SimleTelegramBot\src\main\java\com\example\simpletelegrambot" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.simpletelegrambot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleTelegramBotApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.simpletelegrambot.SimpleTelegramBotApplication" />
+      <module name="simpleTelegramBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simpletelegrambot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SimleTelegramBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SimleTelegramBot" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleTelegramBotApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65639987-281b-4a04-876b-19adcd2a04eb" name="Changes" comment="" />
+      <created>1722440784317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722440784317</updated>
+    </task>
+    <task id="LOCAL-00001" summary="бот мазда">
+      <option name="closed" value="true" />
+      <created>1726399660451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726399660451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="бот мазда">
+      <option name="closed" value="true" />
+      <created>1726399707025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726399707025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Game" />
+    <MESSAGE value="бот мазда" />
+    <option name="LAST_COMMIT_MESSAGE" value="бот мазда" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimleTelegramBot$SimpleTelegramBotApplication.ic" NAME="SimpleTelegramBotApplication Coverage Results" MODIFIED="1726406175933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.simpletelegrambot.*</FILTER>
+    </SUITE>
+  </component>
+</project>
